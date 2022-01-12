@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Ian Ho.
+- 👀 I’m interested in Public Economics and International Trade.
+- 🌱 I’m currently learning Economics at UW-Madison, USA.
+- 📫 How to reach me: zhe259@wisc.edu.
