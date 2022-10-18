@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ian Ho (Chinese: Zhuoyu He).
-- 🌱 I’m currently majoring in Econometrics and Quantitative Economics at [UW-Madison](https://www.wisc.edu/), USA.
-- 👀 My interested areas include Public Economics and International Trade.
-- :computer: I'm familiar with the use of STATA, Python, LaTeX, and Microsoft Office.
-- 📫 How to reach me: zhe259@wisc.edu.
+- 🌱 I’m currently majoring in Econometrics and Quantitative Economics at [The University of Oklahoma](https://www.ou.edu/), USA.
+- 👀 My interested areas include International Trade and Public Economics.
+- :computer: I'm familiar with Stata, Python, LaTeX, and Microsoft Office, and I'm learning R and MATLAB.
+- 📫 How to reach me: ianhe2019@ou.edu.
