@@ -1,5 +1,12 @@
-- 👋 Hi, I’m Ian Ho (Chinese: Zhuoyu He).
-- 🌱 I’m currently majoring in Econometrics and Quantitative Economics at [The University of Oklahoma](https://www.ou.edu/), USA.
-- 👀 My interested areas include International Trade and Firm Dynamics.
-- :computer: I'm familiar with Stata, Python, LaTeX, and Microsoft Office, and I'm learning R, MATLAB, and Julia.
-- 📫 How to reach me: ianhe2019@ou.edu.
+- 👋 Hi, I’m **Ian Ho** (Chinese: Zhuoyu He).
+- 🌱 **Current Major:** Econometrics and Quantitative Economics (PhD) at [The University of Oklahoma](https://www.ou.edu/), USA.
+- 👀 **Research Interests:** International Trade and Firm Dynamics.
+- :computer: **Skill Set:**
+  * Proficient: Stata, LaTeX, Microsoft Office.
+  * Intermediate: Python.
+  * Beginner: R, MATLAB, and Julia.
+- :open_book: **Recent Reading:**
+  * *Suicide* (Édouard Levé, 2010)
+  * *Mein Kampf* (Adolf Hitler, 1924)
+- 📫 **Contact:** ianhe2019@ou.edu.
+- :rainbow_flag: Gay Pride!
