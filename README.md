@@ -7,7 +7,7 @@
 :computer: **Skill Set:**
   - Proficient: Stata, LaTeX, Microsoft Office.
   - Intermediate: Python.
-  - Beginner: R, MATLAB, and Julia.
+  - Beginner: R, MATLAB, Julia.
 
 :open_book: **Recent Reading:**
   - *Suicide* (Édouard Levé, 2010)
