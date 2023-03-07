@@ -10,8 +10,9 @@
   - Beginner: R, MATLAB, Julia.
 
 :open_book: **Recent Reading:**
-  - *Suicide* (Édouard Levé, 2010)
   - *Mein Kampf* (Adolf Hitler, 1924)
+  - *A Feast of Crows* (George R. R. Martin, 2005)
+  - *Empty Fort Strategy* (Huyan Yun, 2022)
 
 📫 **Contact:** ianhe2019@ou.edu.
 
