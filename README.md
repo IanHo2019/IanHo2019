@@ -3,7 +3,7 @@
 🌱 **Degree:** Master of Science in Econometrics and Quantitative Economics at [University of Wisconsin-Madison](https://www.wisc.edu/), USA.
 
 👀 **Personal Belief:**
-  - A believer of empirical analyses; an oppponent of pure modelling and theories.
+  - A believer of empirical analyses; an oppponent of pure modeling and theories.
   - There is only one hell on the Earth; that is, the world we are living in.
   - Nothing is perfect.
 
