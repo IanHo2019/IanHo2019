@@ -1,12 +1,15 @@
-👋 Hi, I’m **Ian Ho** (Chinese: Zhuoyu He).
+👋 Hi, I'm **Ian Ho** (Chinese: Zhuoyu He).
 
-🌱 **Current Major:** Econometrics and Quantitative Economics (PhD) at [The University of Oklahoma](https://www.ou.edu/), USA.
+🌱 **Degree:** Master of Science in Econometrics and Quantitative Economics at [University of Wisconsin-Madison](https://www.wisc.edu/), USA.
 
-👀 **Research Interests:** International Trade and Firm Dynamics.
+👀 **Personal Belief:**
+  - A believer of empirical analyses; an oppponent of pure modelling and theories.
+  - There is only one hell on the Earth; that is, the world we are living in.
+  - Nothing is perfect.
 
 :computer: **Skill Set:**
   - Proficient: Stata, LaTeX, Microsoft Office.
-  - Intermediate: Python.
+  - Intermediate: Python, Markdown.
   - Beginner: R, MATLAB, Julia.
 
 :open_book: **Recent Reading:**
