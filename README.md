@@ -1,9 +1,9 @@
 👋 Hi, I'm **Ian Ho** (Chinese: Zhuoyu He).
 
-🌱 **Degree:** Master of Science in Econometrics and Quantitative Economics at [University of Wisconsin-Madison](https://www.wisc.edu/), USA.
+:school: **Degree:** Master of Science in Econometrics and Quantitative Economics at [University of Wisconsin-Madison](https://www.wisc.edu/), USA.
 
 👀 **Personal Belief:**
-  - A believer of empirical analyses; an oppponent of pure modeling and theories.
+  - Empirical analysts are photographers for documentary movies; theory/modeling researchers are directors of Korean romance dramas.
   - There is only one hell on the Earth; that is, the world we are living in.
   - Nothing is perfect.
 
