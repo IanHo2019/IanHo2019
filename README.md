@@ -1,10 +1,10 @@
 👋 Hi, I'm **Ian Ho** (Chinese: Zhuoyu He).
 
-:school: **Degree:** Master of Science in Econometrics and Quantitative Economics at [University of Wisconsin-Madison](https://www.wisc.edu/), USA.
+:school: **Degree:** MS in Econometrics and Quantitative Economics at [University of Wisconsin-Madison](https://www.wisc.edu/), USA.
 
 👀 **Personal Belief:**
   - Empirical analysts are photographers for documentary movies; theory/modeling researchers are directors of Korean romance dramas.
-  - There is only one hell on the Earth; that is, the world we are living in.
+  - There might be many gods, but only one hell on the Earth --- the world we are living in.
   - Nothing is perfect.
 
 :computer: **Skill Set:**
@@ -19,4 +19,4 @@
 
 📫 **Contact:** ianhe2019@ou.edu.
 
-:rainbow_flag: Gay Pride!
+:rainbow_flag: LGBT+ Pride!
