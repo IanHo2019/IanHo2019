@@ -1,5 +1,5 @@
 ### 👋 About Me
-:nerd_face: Hi, I'm **Ian Ho** (Chinese: Zhuoyu He).
+:nerd_face: Hi, I'm **Ian Ho** (Chinese pinyin: Zhuóyu Hé).
 
 :school: **Degree:** MS in Econometrics and Quantitative Economics at [University of Wisconsin-Madison](https://www.wisc.edu/), USA.
 
@@ -11,7 +11,7 @@
 
 ---
 
-### Skill Set
+### :toolbox: Skill Set
 <div>
   <img src="https://github.com/IanHo2019/Me/blob/main/Image/Stata.png" title="Stata" alt="Stata" width="40" height="40"/>&nbsp;
   <img src="https://github.com/IanHo2019/Me/blob/main/Image/Latex.png" title="React" alt="React" width="106" height="40"/>&nbsp;
@@ -33,7 +33,7 @@
 
 ---
 
-### :yin_yang: Personal Belief
+### :yin_yang: Personal Beliefs
   - Empirical analysts are photographers for documentary movies; theory/modeling researchers are directors of Korean romance dramas.
   - There might be many gods, but only one hell on the Earth --- the world we are living in.
   - Nothing is perfect.
