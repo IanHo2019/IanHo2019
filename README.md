@@ -1,9 +1,11 @@
 ### 👋 About Me
-:nerd_face: Hi, I'm **Ian Ho** (Chinese pinyin: Zhuóyu Hé).
+:nerd_face: Hi, I'm **Ian Ho** (Chinese pinyin: Zhuóyǔ Hé).
 
 :school: **Degree:** MS in Econometrics and Quantitative Economics at [University of Wisconsin-Madison](https://www.wisc.edu/), USA.
 
 👀 **Academic Interest:** Econometrics, International Trade, Public Policy.
+
+:abcd: **Language:** Chinese (native) and English (proficient).
 
 :chart_with_upwards_trend: **Current Status:** Looking for jobs.
 
