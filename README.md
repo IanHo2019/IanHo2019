@@ -12,23 +12,21 @@
 ---
 
 ### :toolbox: Skill Set
-<div>
-  <img src="https://github.com/IanHo2019/Me/blob/main/Image/Stata.png" title="Stata" alt="Stata" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/IanHo2019/Me/blob/main/Image/Latex.png" title="React" alt="React" width="106" height="40"/>&nbsp;
-  <img src="https://github.com/IanHo2019/Me/blob/main/Image/Microsoft.png" title="Microsoft Office" alt="Microsoft Office" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/IanHo2019/Me/blob/main/Image/Python.png" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/IanHo2019/Me/blob/main/Image/Jupyter.png" title="Jupyter" alt="Jupyter" width="34.5" height="40"/>&nbsp;
-  <img src="https://github.com/IanHo2019/Me/blob/main/Image/Matlab.png"  title="MATLAB" alt="MATLAB" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/IanHo2019/Me/blob/main/Image/Markdown.png" title="Markdown" alt="Markdown" width="60" height="40"/>&nbsp;
-  <img src="https://github.com/IanHo2019/Me/blob/main/Image/R.png" title="R" alt="R" width="51" height="40"/>&nbsp;
-  <img src="https://github.com/IanHo2019/Me/blob/main/Image/Julia.png" title="Julia" **alt="Julia" width="61" height="40"/>
-</div>
+[<img src="https://github.com/IanHo2019/Me/blob/main/Image/Stata.png" title="Stata" alt="Stata" width="40" height="40"/>](https://www.stata.com/)&nbsp;
+[<img src="https://github.com/IanHo2019/Me/blob/main/Image/Latex.png" title="React" alt="React" width="106" height="40"/>](https://www.latex-project.org/)&nbsp;
+[<img src="https://github.com/IanHo2019/Me/blob/main/Image/Microsoft.png" title="Microsoft Office" alt="Microsoft Office" width="40" height="40"/>](https://www.microsoft.com/)&nbsp;
+[<img src="https://github.com/IanHo2019/Me/blob/main/Image/Python.png" title="Python" alt="Python" width="40" height="40"/>](https://www.python.org/)&nbsp;
+[<img src="https://github.com/IanHo2019/Me/blob/main/Image/Jupyter.png" title="Jupyter" alt="Jupyter" width="34.5" height="40"/>](https://jupyter.org/)&nbsp;
+[<img src="https://github.com/IanHo2019/Me/blob/main/Image/Matlab.png"  title="MATLAB" alt="MATLAB" width="40" height="40"/>](https://www.mathworks.com/products/matlab.html)&nbsp;
+[<img src="https://github.com/IanHo2019/Me/blob/main/Image/Markdown.png" title="Markdown" alt="Markdown" width="60" height="40"/>](https://daringfireball.net/projects/markdown/)&nbsp;
+[<img src="https://github.com/IanHo2019/Me/blob/main/Image/R.png" title="R" alt="R" width="51" height="40"/>](https://www.r-project.org/)&nbsp;
+[<img src="https://github.com/IanHo2019/Me/blob/main/Image/Julia.png" title="Julia" alt="Julia" width="61" height="40"/>](https://julialang.org/)&nbsp;
 
 ---
 
 ### :open_book: Recent Reading
   - *Mein Kampf* (Adolf Hitler, 1924)
-  - *A Feast of Crows* (George R. R. Martin, 2005)
+  - *The Dizzy Room* (Kristina Ten, 2023)
   - *Empty Fort Strategy* (Huyan Yun, 2022)
 
 ---
