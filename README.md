@@ -3,7 +3,7 @@
 
 :school: **Degree:** MS in Econometrics and Quantitative Economics at [University of Wisconsin-Madison](https://www.wisc.edu/), USA.
 
-👀 **Academic Interest:** Econometrics, International Trade, Public Policy.
+👀 **Academic Interest:** Applied Econometrics, International Trade, Public Policy.
 
 :abcd: **Language:** Chinese (native) and English (proficient).
 
