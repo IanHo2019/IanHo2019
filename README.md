@@ -7,7 +7,7 @@
 
 :abcd: **Language:** Chinese (native) and English (proficient).
 
-:chart_with_upwards_trend: **Current Status:** Looking for jobs.
+:chart_with_upwards_trend: **Current Status:** Looking for a job.
 
 📫 **Contact:** ianhe2019@ou.edu.
 
@@ -35,6 +35,7 @@
 
 ### :yin_yang: Personal Beliefs
   - Empirical analysts are photographers for documentary movies; theory/modeling researchers are directors of Korean romance dramas.
+  - It's easy to find a good researcher, but hard to find a good professor.
   - There might be many gods, but only one hell on the Earth --- the world we are living in.
   - Nothing is perfect.
   - LGBT+ Pride! :rainbow_flag:
