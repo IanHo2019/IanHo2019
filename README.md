@@ -28,7 +28,7 @@
 
 ### :open_book: Recent Reading
   - *Mein Kampf* (Adolf Hitler, 1924)
-  - *The Dizzy Room* (Kristina Ten, 2023)
+  - *The Hammering Man* (Balmer & MacHarg, 1927)
   - *Empty Fort Strategy* (Huyan Yun, 2022)
 
 ---
