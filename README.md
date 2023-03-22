@@ -34,7 +34,7 @@
 ---
 
 ### :yin_yang: Personal Beliefs
-  - Empirical analysts are photographers for documentary movies; theory/modeling researchers are directors of Korean romance dramas.
+  - Empirical analysts are like photographers for documentary movies; theory/modeling researchers are like directors of Korean romance dramas.
   - It's easy to find a good researcher, but hard to find a good professor.
   - There might be many gods, but only one hell on the Earth --- the world we are living in.
   - Nothing is perfect.
