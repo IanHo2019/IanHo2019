@@ -37,6 +37,7 @@
   - An empirical analyst is like a photographer for a documentary movie; a theory/model researchers is like a director of a Korean romance drama.
   - It's easy to find a professor with a bunch of publications, but hard to find one who is able to teach at least one lecture.
   - There might be many gods, but only one hell on the Earth --- the world we are living in.
+  - If there must be a species to be extinct tomorrow, then it should be humans.
   - Nothing is perfect.
   - LGBT+ Pride! :rainbow_flag:
 
