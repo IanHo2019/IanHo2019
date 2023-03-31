@@ -1,6 +1,6 @@
-<div id="header" align="center">
-  <img src="https://github.com/IanHo2019/Me/blob/main/Image/Pseudo-Econ.png" title="Stata" alt="Stata" width="560" height="80"/>
-</div>
+<p align="center">
+  <img src="https://github.com/IanHo2019/Me/blob/main/Image/Pseudo-Econ.png" title="Pseudoscience" alt="Pseudoscience" width="560" height="80"/>
+</p>
 
 ---
 
