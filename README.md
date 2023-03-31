@@ -8,7 +8,7 @@
 :nerd_face: Hi, I'm **Ian Ho** (Chinese pinyin: Zhuóyǔ Hé).
 
 :school: **Experience:**
-  * Studied Banking and Financial Support Services at [University of Indianapolis](https://uindy.edu/);
+  * Studied Banking and Financial Support Services (BS) at [University of Indianapolis](https://uindy.edu/);
   * Studied Econometrics and Quantitative Economics (MS) at [University of Wisconsin-Madison](https://www.wisc.edu/);
   * Studied Economics (PhD) at [The University of Oklahoma](https://www.ou.edu/) and quitted after 1 year.
 
