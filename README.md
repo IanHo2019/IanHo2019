@@ -7,7 +7,10 @@
 ### 👋 About Me
 :nerd_face: Hi, I'm **Ian Ho** (Chinese pinyin: Zhuóyǔ Hé).
 
-:school: **Degree:** MS in Econometrics and Quantitative Economics at [University of Wisconsin-Madison](https://www.wisc.edu/), USA.
+:school: **Experience:**
+  * Studied Banking and Financial Support Services at [University of Indianapolis](https://uindy.edu/);
+  * Studied Econometrics and Quantitative Economics (MS) at [University of Wisconsin-Madison](https://www.wisc.edu/);
+  * Studied Economics (PhD) at [The University of Oklahoma](https://www.ou.edu/) and quitted after 1 year.
 
 :abcd: **Language:** Chinese (native) and English (proficient).
 
@@ -38,7 +41,7 @@
 ---
 
 ### :yin_yang: Personal Beliefs
-  - It's easy to find a professor with a bunch of publications, but hard to find one who is able to teach at least one lecture.
+  - It's easy to find a professor with a bunch of publications, but hard to find one who is able to teach well at least one lecture.
   - There might be many gods, but only one hell on the Earth --- the world we are living in.
   - If there must be a species to be extinct tomorrow, then it should be humans.
   - Economics is pseudo-science.
