@@ -1,9 +1,13 @@
+<div id="header" align="center">
+  <img src="https://github.com/IanHo2019/Me/blob/main/Image/Pseudo-Econ.png" title="Stata" alt="Stata" width="560" height="80"/>
+</div>
+
+---
+
 ### 👋 About Me
 :nerd_face: Hi, I'm **Ian Ho** (Chinese pinyin: Zhuóyǔ Hé).
 
 :school: **Degree:** MS in Econometrics and Quantitative Economics at [University of Wisconsin-Madison](https://www.wisc.edu/), USA.
-
-👀 **Academic Interest:** Applied Econometrics, International Trade, Public Policy.
 
 :abcd: **Language:** Chinese (native) and English (proficient).
 
@@ -34,10 +38,10 @@
 ---
 
 ### :yin_yang: Personal Beliefs
-  - An empirical analyst is like a photographer for a documentary movie; a theory/model researchers is like a director of a Korean romance drama.
   - It's easy to find a professor with a bunch of publications, but hard to find one who is able to teach at least one lecture.
   - There might be many gods, but only one hell on the Earth --- the world we are living in.
   - If there must be a species to be extinct tomorrow, then it should be humans.
+  - Economics is pseudo-science.
   - Nothing is perfect.
   - LGBT+ Pride! :rainbow_flag:
 
