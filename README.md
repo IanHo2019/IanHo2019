@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/IanHo2019/Me/blob/main/Image/Pseudo-Econ.png" title="Pseudoscience" alt="Pseudoscience" width="560" height="80"/>
+  <img src="https://github.com/IanHo2019/Me/blob/main/Image/Lament_for_the_South.jpg" title="Pseudoscience" alt="Pseudoscience" width="560" height="80"/>
 </p>
 
 ---
@@ -7,7 +7,7 @@
 ### 👋 About Me
 :nerd_face: Hi, I'm **Ian Ho** (Chinese pinyin: Zhuóyǔ Hé).
 
-:school: **Experience:**
+:school: **Education:**
   * Studied Banking and Financial Support Services (BS) at [University of Indianapolis](https://uindy.edu/);
   * Studied Econometrics and Quantitative Economics (MS) at [University of Wisconsin-Madison](https://www.wisc.edu/);
   * Studied Economics (PhD) at [The University of Oklahoma](https://www.ou.edu/) and quitted after 1 year.
@@ -22,7 +22,7 @@
 
 ### :toolbox: Skill Set
 [<img src="https://github.com/IanHo2019/Me/blob/main/Image/Stata.png" title="Stata" alt="Stata" width="40" height="40"/>](https://www.stata.com/)&nbsp;
-[<img src="https://github.com/IanHo2019/Me/blob/main/Image/Latex.png" title="React" alt="React" width="106" height="40"/>](https://www.latex-project.org/)&nbsp;
+[<img src="https://github.com/IanHo2019/Me/blob/main/Image/Latex.png" title="LaTeX" alt="LaTeX" width="106" height="40"/>](https://www.latex-project.org/)&nbsp;
 [<img src="https://github.com/IanHo2019/Me/blob/main/Image/Microsoft.png" title="Microsoft Office" alt="Microsoft Office" width="40" height="40"/>](https://www.microsoft.com/)&nbsp;
 [<img src="https://github.com/IanHo2019/Me/blob/main/Image/Python.png" title="Python" alt="Python" width="40" height="40"/>](https://www.python.org/)&nbsp;
 [<img src="https://github.com/IanHo2019/Me/blob/main/Image/Jupyter.png" title="Jupyter" alt="Jupyter" width="34.5" height="40"/>](https://jupyter.org/)&nbsp;
@@ -44,7 +44,6 @@
   - It's easy to find a professor with a bunch of publications, but hard to find one who is able to teach well at least one lecture.
   - There might be many gods, but only one hell on the Earth --- the world we are living in.
   - If there must be a species to be extinct tomorrow, then it should be humans.
-  - Economics is pseudo-science.
   - Nothing is perfect.
   - LGBT+ Pride! :rainbow_flag:
 
