@@ -43,8 +43,8 @@
 ### :yin_yang: Personal Beliefs
   - It's easy to find a professor with a bunch of publications, but hard to find one who is able to teach well at least one lecture.
   - There might be many gods, but only one hell on the Earth --- the world we are living in.
-  - If there must be a species to be extinct tomorrow, then it should be humans.
   - Nothing is perfect.
+  - Valar morghulis.
   - LGBT+ Pride! :rainbow_flag:
 
 ---
