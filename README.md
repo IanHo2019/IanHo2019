@@ -16,7 +16,7 @@
 
 :chart_with_upwards_trend: **Current Status:** Looking for a job.
 
-📫 **Contact:** ianhe2019@ou.edu.
+📫 **Contact:** ianho0815@outlook.com.
 
 ---
 
