@@ -14,7 +14,7 @@
 
 :abcd: **Language:** Chinese (native) and English (proficient).
 
-:chart_with_upwards_trend: **Current Status:** Waiting for the end.
+:chart_with_upwards_trend: **Current Status:** Looking for a job; waiting for the end.
 
 📫 **Contact:** ianho0815@outlook.com.
 
