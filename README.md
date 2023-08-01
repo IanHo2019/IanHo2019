@@ -43,4 +43,4 @@
 ### :electron: My Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=IanHo2019&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IanHo2019&exclude_repo=ECON-770-Exams&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IanHo2019&exclude_repo=ECON-770-Exams&layout=compact&theme=vision-friendly-dark&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
