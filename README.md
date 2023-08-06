@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./Image/Lament_for_the_South.jpg" title="Lament" alt="Lament" width="560" height="80"/>
+  <img src="./Image/Lament_for_the_South.jpg" title="The Lament for the South" alt="天道周星，物极不反。" width="560" height="80"/>
 </p>
 
 ---
