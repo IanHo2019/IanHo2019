@@ -33,12 +33,6 @@
 
 ---
 
-### :open_book: Recent Reading
-  - *Mein Kampf* (Adolf Hitler, 1924)
-  - *A Feast for Crows* (George R. R. Martin, 2005)
-
----
-
 ### :electron: My Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=IanHo2019&theme=dark&background=000000)](https://git.io/streak-stats)
 
