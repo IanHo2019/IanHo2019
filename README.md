@@ -14,7 +14,7 @@
 
 :abcd: **Language:** Chinese (native) and English (proficient).
 
-:chart_with_upwards_trend: **Current Status:** Working for [International Education College](https://io.nsu.edu.cn) at [Chengdu Neusoft University](https://www.nsu.edu.cn), and waiting for a better (teaching) job.
+:chart_with_upwards_trend: **Current Status:** Working for [School of International Education](https://io.nsu.edu.cn) at [Chengdu Neusoft University](https://www.nsu.edu.cn), and waiting for a better (teaching) job.
 
 📫 **Contact:** ianho0815@outlook.com.
 
