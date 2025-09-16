@@ -14,7 +14,7 @@
 
 :abcd: **Language:** Chinese (native) and English (proficient).
 
-:chart_with_upwards_trend: **Current Status:** Working for [School of International Education](https://io.nsu.edu.cn) at [Chengdu Neusoft University](https://www.nsu.edu.cn), and waiting for a better (teaching) job.
+:chart_with_upwards_trend: **Current Status:** Teaching English to kids and junior/senior schoolers, and managing an offical WeChat account ([LinguaMatic](https://mp.weixin.qq.com/s/LyvxqB-nDcqhkw5mwOVRZQ)).
 
 📫 **Contact:** ianho0815@outlook.com.
 
